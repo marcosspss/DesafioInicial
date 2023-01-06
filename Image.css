@@ -1,15 +1,15 @@
 .Funko {
-    width: 200px;
+    width: 20vw;
     display: inline-block;
-    margin-top: 24%;
-    margin-left: 15%;
-
+    position: relative;
+    top: 13vw;
+    left: 8vw;
 }
 
 .Logo {
     margin-top: 2%;
-    width: 150px;
-    padding: 20px;
+    width: 11vw;
+    padding: 1vw;
 }
 
 .CaptainMarvelTitle {
