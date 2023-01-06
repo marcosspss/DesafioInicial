@@ -1,0 +1,49 @@
+.Margin {
+    padding-left: 4.5%;
+    padding-right: 4.5%;
+}
+
+.LayoutHome {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.LayoutMenu {
+    display: flex
+}
+
+.MenuHome {
+    flex-basis: 10%;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.MenuCatalogue {
+    flex-basis: 10%;
+    margin-top: 5%
+}
+
+.MenuContact {
+    flex-basis: 10%;
+    margin-top: 5%
+}
+
+.Products {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 30px;
+
+}
+
+.Desenho {
+    width: 450px;flex-basis: 30%;
+
+}
+
+.Produt {
+    width: 400px;
+    margin-right: 30px;
+    padding: 20px;
+}

@@ -1,0 +1,48 @@
+.QuemSomos {
+    color: white;
+}
+.MenuHome{color: #fe7467;}
+
+.Subtitle {
+    padding-top: 75px;
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    text-underline-offset: 15px;
+    flex-grow: 1;
+    flex-basis: 100%;
+}
+
+ul li a {
+    color: white;
+    font-size: 20px;
+    float: inherit;
+    text-decoration: underline;;
+    text-underline-offset: 15px;
+}
+
+ul li a:hover {
+    color: #fe7467;
+    text-decoration: underline;
+}
+
+.Goku {
+    color: black;
+}
+
+.Loren {
+    width: 400px;
+    padding: 100px;
+    font-size: 40px;
+}
+
+.Empty {
+    flex-basis: 50%;
+}
+
+.ContactUs {
+    font-size: 40px;
+    margin-left: 25%;margin-right: 25%;
+    margin-top: 50px;
+    text-align: center;
+}

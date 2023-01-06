@@ -1,0 +1,53 @@
+form {
+    display: grid;
+    width: 800px;
+    padding: 20px;
+    padding-left: 23%;
+    grid-template-rows: auto;
+    grid-area: 1fr 1fr;
+    grid-template-areas:
+        "dados1 dados4"
+        ". dados4"
+        "dados2 dados4"
+        ". dados4"
+        "dados3 dados4"
+        "Enviardados Enviardados"
+}
+form input {
+    width: 10px;
+    margin-top: 10px;
+    color: white;
+}
+
+.Dados1 {
+    grid-area: dados1;
+    padding: 10px;
+    border-radius: 10px;
+    width: 450px;
+    margin-right: 20px;
+}
+
+.Dados2 {
+    grid-area: dados2;
+    padding: 10px;
+    border-radius: 10px;
+    width: 450px;
+    margin-right: 20px;
+
+}
+
+.Dados3 {
+    grid-area: dados3;
+    padding: 10px;
+    border-radius: 10px;
+    width: 450px;
+    margin-right: 20px;
+}
+
+.Dados4 {
+    grid-area: dados4;
+    padding: 10px;
+    border-radius: 10px;
+    width: 450px;
+
+}

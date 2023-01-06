@@ -1,0 +1,36 @@
+.Home {
+    background-image: url(/Imagens/spidermanheader.jpg);
+    background-size: 100% 100%;
+    background-position-x: 100%;
+    background-attachment: scroll;
+    
+}
+
+
+.QuemSomos {
+    background-image: url(/Imagens/thor_header.jpg);
+    background-size: 100% 100%;
+    background-attachment: scroll;
+    padding-bottom: 35px;
+
+}
+
+.Bonecos {
+    background-image: url(/Imagens/bonecos.png);
+    background-size: 40% 100%;
+    background-repeat: no-repeat;
+}
+
+.Catalogue {
+    background-image: url(/Imagens/captainmarvelheader.jpg);
+    background-size: 100% 100%;
+    padding-bottom: 585px;
+    background-repeat: no-repeat;
+    color: black;
+}
+.Contact {
+    background-image: url(/Imagens/contatoheader.jpg);
+    background-size: 100% 100%;
+    padding-bottom: 250px;
+    
+}
