@@ -37,7 +37,7 @@ ul li a:hover {
 }
 
 .Empty {
-    flex-basis: 50%;
+    flex-basis: 50%;width: 3vw;
 }
 
 .ContactUs {

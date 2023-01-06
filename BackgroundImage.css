@@ -1,9 +1,9 @@
 .Home {
     background-image: url(/Imagens/spidermanheader.jpg);
-    background-size: 100% 100%;
-    background-position-x: 100%;
+    background-size: 90vw;
+    height: 50vw;
+    background-position-x: 52%;
     background-attachment: scroll;
-    
 }
 
 
@@ -15,11 +15,7 @@
 
 }
 
-.Bonecos {
-    background-image: url(/Imagens/bonecos.png);
-    background-size: 40% 100%;
-    background-repeat: no-repeat;
-}
+
 
 .Catalogue {
     background-image: url(/Imagens/captainmarvelheader.jpg);
@@ -28,9 +24,11 @@
     background-repeat: no-repeat;
     color: black;
 }
+
 .Contact {
     background-image: url(/Imagens/contatoheader.jpg);
     background-size: 100% 100%;
     padding-bottom: 250px;
-    
+
 }
+

@@ -1,0 +1,95 @@
+@media (max-width: 600px) {
+
+    .Home {
+        background-image: url(/Imagens/spidermanheader.jpg);
+        background-size: 143vw;
+        height: 80vw;
+        background-position-x: 14%;
+        background-position-y: 100%;
+        background-attachment: scroll;
+    }
+    .LayoutMenu {
+    display: flex;
+    flex-wrap: wrap;
+}
+ul li a {
+    color: white;
+    font-size: 15px;
+    float: inherit;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    margin-right: 5vw;
+    position: relative;
+    left: 6vw;
+    bottom: 4vw;
+}
+    .Logo {
+        margin-top: 2%;
+        flex-basis: 40%;
+        width: 20vw;
+        padding: 1vw;
+        height: 14vw;
+        position: relative;
+        margin-right: 37vw;
+        left: 22vw;
+    }
+    .Funko {
+        width: 20vw;
+        display: inline-block;
+        position: relative;
+        top: 25vw;
+        left: 15vw;
+    }
+    .QuemSomos {
+        background-attachment: scroll;
+        padding-bottom: 35px;
+        background-image: linear-gradient(to bottom, #fe7467, #fc3836);
+    }
+
+    .Loren {
+        width: 400px;
+        padding: 2vw;
+        font-size: 7vw;
+        text-align: center;
+    }
+
+    .Subtitle {
+        padding-top: 3vw;
+        text-align: center;
+        font-size: 8vw;
+        text-decoration: underline;
+        text-underline-offset: 15px;
+        flex-grow: 1;
+        flex-basis: 100%;
+        margin-bottom: 4vw;
+    }
+
+
+
+    .Goku {
+        color: black;
+        position: relative;
+        bottom: 53vw;
+    }
+
+    .Button {
+        background-color: #fc3836;
+        width: 180px;
+        padding: 15px 20px;
+        font-size: 18px;
+        text-align: center;
+        border-radius: 20px;
+        list-style: none;
+        left: 25%;
+        bottom: 51vw;
+        border: none;
+        position: relative;
+    }
+    .Empty {
+        flex-basis: 90%;
+        width: 4vw;
+        position: relative;
+        bottom: -80vw;
+        left: 4vw;
+    }
+}

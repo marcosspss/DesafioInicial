@@ -7,10 +7,10 @@
     text-align: center;
     border-radius: 20px;
     list-style: none;
-    margin-right: 300px;
+    left: 45%;
     margin-bottom: 50px;
     border:none;
-    float: right;}
+    position: relative;}
 
     .Button:hover {
         background-color: #fe7467;
